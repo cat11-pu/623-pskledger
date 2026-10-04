@@ -1,0 +1,13 @@
+{
+  "records": [
+    {"id": "gamma", "name": "site", "value": "psk-gamma-v1", "updated_time": "2026-09-20T12:00:00Z", "versions": 3},
+    {"id": "alpha", "name": "branch", "value": "psk-alpha-v1", "updated_time": "2026-08-01T10:00:00Z", "versions": 5},
+    {"id": "zeta:core", "name": "hub", "value": "psk-z-hub", "updated_time": "2026-04-01T00:00:00Z"},
+    {"id": "beta", "name": "tunnel", "value": "psk-beta-v2", "updated_time": "2026-09-15T09:30:00Z", "versions": 2},
+    {"id": "dupe", "name": "north", "value": "psk-north-a", "updated_time": "2026-05-01T00:00:00Z"},
+    {"id": "epsilon", "name": "legacy", "value": "psk-eps-v1", "updated_time": "2026-06-01T00:00:00Z"},
+    {"id": "delta", "name": "peer", "value": "psk-delta-v3", "updated_time": "2026-09-21T08:00:00Z", "versions": 4},
+    {"id": "dupe", "name": "north", "value": "psk-north-b", "updated_time": "2026-05-02T00:00:00Z"},
+    {"id": "zeta", "name": "core:hub", "value": "psk-z-amb", "updated_time": "2026-04-02T00:00:00Z"}
+  ]
+}

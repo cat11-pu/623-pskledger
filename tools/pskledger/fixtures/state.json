@@ -1,0 +1,8 @@
+{
+  "applied": {
+    "alpha:branch": "2026-08-01T10:00:00Z",
+    "beta:tunnel": "2026-07-01T00:00:00Z",
+    "delta:peer": "2026-09-21T08:00:00Z",
+    "stale:old:key": "2026-01-01T00:00:00Z"
+  }
+}
